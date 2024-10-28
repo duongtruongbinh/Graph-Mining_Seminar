@@ -3,6 +3,6 @@ __pycache__/
 
 # ignore all .pyc files
 *.pyc
-
+tiny-imagenet-200/
 Group_7/
 Group_7.zip
