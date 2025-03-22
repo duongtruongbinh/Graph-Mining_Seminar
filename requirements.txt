@@ -1,5 +1,5 @@
 apex==0.9.10dev
-numpy==1.21.6
+numpy==1.22.0
 PyYAML==6.0.1
 PyYAML==6.0.2
 timm==0.3.2
